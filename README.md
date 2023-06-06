@@ -25,6 +25,17 @@ Di bawah metode struktural, masukan dikumpulkan dengan menggunakan kuesioner dan
 ### 3. Installasi Ubuntu Server menggunakan VMWare.
 
   #### 1.Klik aplikasi VMWare, dan pilih "Create a New Virtual Machine"
+  ![1](https://github.com/darblietz/Introduction-to-DevOps/assets/98991080/41715a68-44fa-4184-9446-ceacd6ae5557)
+
+  #### 2. Klik Browse untuk memilih file VMWare berupa .iso. dan Setelah Ubuntu ter-detected. Maka klik Next.
+  ![2](https://github.com/darblietz/Introduction-to-DevOps/assets/98991080/6c4779da-1a9c-4362-b082-ba1f2b4e3a55)
+  
+  #### 3. Silahkan isi data yang kalian inginkan, random juga tidak apa-apa.
+  ![3](https://github.com/darblietz/Introduction-to-DevOps/assets/98991080/c1108707-33e0-40a4-91a0-7b9a3f0caa77)
+  
+  #### 4. Nama Virtual machine, random. dan ada location penyimpanan folder untuk server anda juga. Setelah selesai, Klik Next
+  ![4](https://github.com/darblietz/Introduction-to-DevOps/assets/98991080/2f74ef19-936e-48dc-95c1-da2931063fed)
+
   
   
 
