@@ -22,13 +22,11 @@ Di bawah metode struktural, masukan dikumpulkan dengan menggunakan kuesioner dan
 - Continuous Operations adalah Fase terakhir siklus hidup DevOps sangat penting untuk meminimalkan pemeliharaan terjadwal dan waktu henti terencana lainnya. Biasanya, pengembang terpaksa membuat server offline untuk melakukan pembaruan, yang meningkatkan waktu henti dan dapat menghabiskan banyak uang bagi organisasi. Akhirnya, operasi berkelanjutan mengotomatiskan startup aplikasi dan peningkatan berikutnya. Ini menghilangkan downtime menggunakan platform manajemen kontainer seperti Kubernetes dan Docker.
 
 
-## Features
+### 3. Installasi Ubuntu Server menggunakan VMWare.
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+  #### 1.Klik aplikasi VMWare, dan pilih "Create a New Virtual Machine"
+  
+  
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
